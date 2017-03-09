@@ -1,0 +1,17 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+.img-link {
+  cursor: pointer;
+  cursor: hand;
+}
+
+.title-logo {
+  margin-top: 20px;
+}
+
+.h2-title {
+  color: #000000;
+}
